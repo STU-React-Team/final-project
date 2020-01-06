@@ -6,7 +6,7 @@ import './App.css';
 const App: React.FC = () => (
 	<Provider store={store}>
 		<div className='App'>
-			<h1>React App</h1>
+			<h1>React App Test</h1>
 		</div>
 	</Provider>
 );
